@@ -38,4 +38,6 @@ This project presents an automated forest fire identification system using Unman
 -GPS-based fire location tracking
 -Edge AI deployment on UAV hardware
 -Weather and wind data fusion for fire spread prediction
-## output 
+## Output 
+
+https://github.com/KasalaSuvarna/-A-FOREST-FIRE-IDENTIFICATION-METHOD-FOR-UNMANNED-AERIAL-VEHICLE-MONITORING-VIDEO-IMAGES/issues/2#issue-3765601524 
